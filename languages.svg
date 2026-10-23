@@ -134,40 +134,40 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #41b883; 
-  width: 22.987%;
+  width: 22.984%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 13.318%;
+  width: 13.316%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 10.891%;
+  width: 10.890%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
-  width: 10.674%;
+  width: 10.672%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 9.188%;
+  width: 9.187%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 8.166%;
+  width: 8.165%;
 " class="progress-item"></span><span style="
   background-color: #7e7eff; 
-  width: 5.523%;
+  width: 5.536%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 3.956%;
+  width: 3.955%;
 " class="progress-item"></span><span style="
   background-color: #199f4b; 
   width: 3.896%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 3.350%;
+  width: 3.349%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 2.594%;
+  width: 2.593%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 1.586%;
+  width: 1.585%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
   width: 1.374%;
@@ -221,7 +221,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Vue</span>
-  <span class="percent">22.99%</span>
+  <span class="percent">22.98%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -301,7 +301,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">8.17%</span>
+  <span class="percent">8.16%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
@@ -317,7 +317,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Nix</span>
-  <span class="percent">5.52%</span>
+  <span class="percent">5.54%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
